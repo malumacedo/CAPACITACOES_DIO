@@ -1,3 +1,3 @@
-# CAPACITACOES_DIO
+## Espaço dedicado a publicações dos Desafios da DIO
 
-## SCRUM MASTER - DESAFIO 01
+### Conteúdos extras na aba Wiki
